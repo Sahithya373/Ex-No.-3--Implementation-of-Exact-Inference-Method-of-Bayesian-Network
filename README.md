@@ -17,10 +17,9 @@ Step 6: Perform exact inference using the defined evidence and query variables.<
 Step 7: Print the results.<br>
 
 ## Program :
-# DEVELOPED BY:
 ```
-S. SAHITHYA
-212221040140
+DEVELOPED BY: S. SAHITHYA
+              212221040140
 ```
 ```
 from pgmpy.models import BayesianNetwork
